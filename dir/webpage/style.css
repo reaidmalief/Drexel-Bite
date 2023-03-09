@@ -1,0 +1,42 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #77bb41;
+  
+  
+}
+h1 strong{
+  font-family: fantasy;
+  color: #77bb41;
+  display: block;
+  font-size: 80%;
+  opacity: 0.75;
+
+}
+h2 strong{
+  font-family: fantasy;
+  color: #ffffff;
+  display: block;
+  font-size: 60%;
+  opacity: 0.75;
+
+}
+/* Style the button */
+button {
+  background-color: #f5ec00; /* Green background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  padding: 10px 28px; /* Padding */
+  text-align: center; /* Center text */
+  text-decoration: none; /* Remove underline */
+  display: inline-block; /* Make it a block element */
+  font-size: 16px; /* Font size */
+  margin: 4px 2px; /* Margin */
+  cursor: pointer; /* Add pointer cursor on hover */
+}
+
+/* Add hover effect */
+button:hover {
+  background-color: #6f7608;
+}
+
