@@ -15,11 +15,11 @@ To set up the project on your local machine, follow these steps:
 
 1. Clone the repository from the project's GitHub repository:
    ```
-   git clone 
+   git clone https://gitlab.cci.drexel.edu/fds23/62/team-20/drexel-bite.git
    ```
 2. Navigate to the project directory:
    ```
-   cd project-name
+   cd drexel-bite
    ```
 3. Install the necessary dependencies:
    ```
@@ -69,13 +69,7 @@ When making changes to the codebase, please follow these guidelines:
 6. Open a pull request in the repository and request a code review from the team.
 
 ## Dependencies and Integrations <a name="dependencies-and-integrations"></a>
-The project relies on the following dependencies and integrations:
+The project does not rely on any Dependencies or Integrations
 
-- [Dependency 1](link-to-dependency-1) - Description of the dependency.
-- [Dependency 2](link-to-dependency-2) - Description of the dependency.
-- [Integration 1](link-to-integration-1) - Description of the integration with another system.
-- [Integration 2](link-to-integration-2) - Description of the integration with another system.
-
-Make sure to review the documentation of these dependencies and integrations for further information on how they are utilized within the project.
 
 This README file serves as a reference for the team members working on the project. It is important to keep it up to date with any changes or additions made to the project setup, testing process, deployment instructions, codebase changes, dependencies, and integrations.
