@@ -1,4 +1,4 @@
-# Project Name README
+# README
 
 ## Introduction
 This README file provides important instructions and information for the team members working on the project. It includes details on setting up the project, testing the codebase, deploying the application, and making changes to the code. Additionally, it outlines the dependencies and integrations with other systems that are crucial for the project.
